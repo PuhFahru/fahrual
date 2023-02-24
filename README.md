@@ -36,7 +36,7 @@
 
 ---
 ### Connect with me:
-[![website](./img/youtube-light.svg)](-light-mode-only)
+[![website](./img/youtube-light.svg)]()
 [![website](./img/youtube-dark.svg)]()
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)]()
