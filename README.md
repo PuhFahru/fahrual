@@ -1,7 +1,7 @@
 # Hi there, I'm Fahru👋
 ## About Me:
 - 🏫 I’m currently studying at [Universitas Mataram](https://unram.ac.id/) | Informatics Engineering
-- 📚︎ I’m currently learning Laravel, Javascript dan CI
+- 📚︎ I’m currently learning Laravel, Javascript and CI
 - 👨‍💻 I'm want to collaborate as an application and website developer
 - 💬 Ask me about anything
 - 📩 How to reach me: fahrualfarizi7@gmail.com
